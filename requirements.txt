@@ -1,0 +1,5 @@
+streamlit
+seaborn
+tensorflow
+matplotlib
+plotly.express
